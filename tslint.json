@@ -1,6 +1,5 @@
 {
   "rules": {
-    "adjacent-overload-signatures": true,
     "arrow-parens": true,
     "class-name": true,
     "comment-format": [
@@ -76,7 +75,7 @@
     "semicolon": [
       "always"
     ],
-    "switch-default": true,    
+    "switch-default": true,
     "typedef-whitespace": [
       true,
       {
