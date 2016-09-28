@@ -6,4 +6,4 @@
 * Adjust the rules and start **CODING**
 
 ### Last Update
-* 2016.08.06
+* 2016.09.28
