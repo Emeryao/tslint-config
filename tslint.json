@@ -16,15 +16,13 @@
         "no-namespace": [true, "allow-declarations"],
         "no-reference": true,
         "no-var-requires": true,
-        "only-arrow-functions": [true, "allow-declarations"],
+        "only-arrow-functions": [false, "allow-declarations"],
         "prefer-for-of": true,
         "typedef": [
             true,
             "call-signature",
             "parameter",
-            "arrow-parameter",
             "property-declaration",
-            "variable-declaration",
             "member-variable-declaration"
         ],
 
