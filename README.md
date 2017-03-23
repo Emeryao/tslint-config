@@ -8,7 +8,7 @@
 
 ## About
 * based on the tslint rules [documentation](https://palantir.github.io/tslint/rules/)  
-* tested on tslint version `4.5.0`
+* tested on tslint version `4.5.1`
 
 ### Last Update
-* 2017.02.28
+* `2017.03.23`
